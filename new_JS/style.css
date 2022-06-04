@@ -1,0 +1,34 @@
+#border{
+    border: 10px ridge #f00;
+    background-color: blue;
+    padding: 0.5rem;
+    display: flex;
+     flex-direction: column; 
+    border-width: 0.5rem;
+    height:1rem;
+    width: 32rem;
+    justify-content: center;
+   
+    left: 3rem;
+    bottom: 32rem;
+    color: white;
+    font-weight: bold;
+}
+#run{
+ position: relative;
+ background-color:black;
+ color: white;
+ font-weight: bold;
+ font-family: 'Courier New', Courier, monospace;
+ top:0.5rem;
+left: 36rem;
+}
+
+
+#past{
+    position:absolute;
+    background-color: aqua;
+    color: darkblue;
+    top:10rem;
+    
+}
