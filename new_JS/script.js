@@ -49,44 +49,4 @@ document.addEventListener('click',displayDate,true)
 
 
 
-//Local Storage
-
-// let y = window.localStorage
-
-// console.log(y)
-
-// y.setItem('name','test')
-
-// y.removeItem('name')
-// console.log(localStorage)
-
-// localStorage.setItem('age','30');
-
-
-// console.log(localStorage)
-
-//Date and time
-
-// let d;
-
-
-// d = new Date(123);
-
-
-// d = new Date(2022,7)
-// console.log(d.toString())
-
-
-// console.log(d.getFullYear())
-// console.log(d.getDay())
-// console.log(d.getHours())
-// console.log(d.setDate(5));
-// console.log(d.toLocaleString('en-US',{
-//     timeZone: 'America/New_York'
-// }));
-// console.log(JSON.stringify({
-//     myDate: d
-// }));
-
-
  
